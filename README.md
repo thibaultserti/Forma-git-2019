@@ -6,3 +6,5 @@
 - program the press function
 - program the clear function
 - program the equalpress function
+- change colors
+- Be awesome
