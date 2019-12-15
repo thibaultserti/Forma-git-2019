@@ -34,7 +34,7 @@ def equalpress():
         # eval function evaluate the expression
         # and str function convert the result
         # into string
-        
+
         # TODO
 
         # initialze the expression variable
@@ -67,8 +67,8 @@ if __name__ == "__main__":
     gui.configure(background="light green")
 
     # set the title of GUI window
-    # TODO
-    
+    gui.title("Ma super calculatrice")
+
     # set the configuration of GUI window
     gui.geometry("265x125")
 
