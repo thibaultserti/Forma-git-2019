@@ -34,7 +34,7 @@ def equalpress():
         # eval function evaluate the expression
         # and str function convert the result
         # into string
-        
+
         # TODO
 
         # initialze the expression variable
@@ -56,7 +56,7 @@ def clear():
     equation.set("")
 
     # Reset the expression
-    # TODO
+    expression = ""
 
 # Driver code
 if __name__ == "__main__":
@@ -68,7 +68,7 @@ if __name__ == "__main__":
 
     # set the title of GUI window
     gui.title("Ma Super Calculatrice")
-    
+
     # set the configuration of GUI window
     gui.geometry("265x125")
 
