@@ -54,6 +54,7 @@ def equalpress():
 def clear():
     global expression
     equation.set("")
+    print("sabotage")
 
     # Reset the expression
     expression = ""
