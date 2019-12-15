@@ -54,6 +54,7 @@ def equalpress():
 def clear():
     global expression
     equation.set("")
+    expression = ""
 
     # Reset the expression
     expression = ""
