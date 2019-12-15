@@ -67,7 +67,7 @@ if __name__ == "__main__":
     gui.configure(background="light green")
 
     # set the title of GUI window
-    # TODO
+    gui.title("Ma Super Calculatrice")
     
     # set the configuration of GUI window
     gui.geometry("265x125")
