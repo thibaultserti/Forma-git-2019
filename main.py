@@ -56,7 +56,7 @@ def clear():
     equation.set("")
 
     # Reset the expression
-    # TODO
+    expression = ""
 
 # Driver code
 if __name__ == "__main__":
