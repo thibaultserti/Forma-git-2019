@@ -12,12 +12,10 @@ expression = ""
 def press(num):
     # point out the global expression variable
     global expression
-
     # concatenation of string
-    # TODO
-
+    expression += num
     # update the expression by using set method
-    # TODO
+    expression.set(expression)
 
 # Function to evaluate the final expression
 def equalpress():
