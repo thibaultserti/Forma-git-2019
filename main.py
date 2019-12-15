@@ -54,10 +54,10 @@ def equalpress():
 def clear():
     global expression
     equation.set("")
+    print("sabotage")
 
     # Reset the expression
     expression = ""
-    
 
 # Driver code
 if __name__ == "__main__":
