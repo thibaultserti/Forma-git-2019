@@ -11,3 +11,4 @@
 
 # Done
 - Inviter des exté aux formas
+- Montrer comment utiliser git dans vscode
