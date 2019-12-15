@@ -8,3 +8,6 @@
 - program the equalpress function
 - change colors
 - Be awesome
+
+# Done
+- Inviter des exté aux formas
